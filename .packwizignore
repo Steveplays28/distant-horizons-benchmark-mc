@@ -11,3 +11,6 @@ docs/
 *.xcf
 *.mp4
 *.mkv
+
+# Docker Compose script
+docker-compose.yaml
