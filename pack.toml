@@ -1,0 +1,13 @@
+name = "Distant Horizons Benchmark"
+author = "Steveplays28"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c0b0864756fc1775971cff5aab3eba4fc9084c81e7762f0639e45f6e2825c4bc"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.0-beta.11"
