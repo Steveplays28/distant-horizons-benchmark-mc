@@ -8,8 +8,9 @@ The Distant Horizons build included in this modpack has serverside support, comp
 ### Client
 
 1. Download the Prism Launcher instance (which contains the Packwiz Installer bootstrap) from the repository's [releases tab](https://github.com/Steveplays28/distant-horizons-benchmark-mc/latest)
-2. Run the Prism Launcher instance (files will auto download from this GitHub repository using Packwiz)
-3. Head over to the [usage section](#usage) for more info
+2. Change the RAM allocation (6GB+ is recommended)
+3. Run the Prism Launcher instance (files will auto download from this GitHub repository using Packwiz)
+4. Head over to the [usage section](#usage) for more info
 
 ### Server
 
