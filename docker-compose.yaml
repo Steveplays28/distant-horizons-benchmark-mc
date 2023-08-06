@@ -6,6 +6,7 @@ services:
     container_name: "distant-horizons-benchmark-mc"
     ports:
       - 25565:25565
+      - 25049:25049
     volumes:
       - /YOUR_DOCKER_DIRECTORY_HERE/distant-horizons-benchmark-mc/data:/data
     environment:
@@ -14,7 +15,7 @@ services:
       RCON_PASSWORD: "minecraftquilt"
       TYPE: QUILT
       QUILT_LOADER_VERSION: "0.20.0-beta.11"
-      PACKWIZ_URL: "https://github.com/Steveplays28/distant-horizons-benchmark-mc/raw/v1.0.2+mc1.20.1/pack.toml"
+      PACKWIZ_URL: "https://github.com/Steveplays28/distant-horizons-benchmark-mc/raw/v1.1.0+mc1.20.1/pack.toml"
       ENABLE_WHITELIST: "true"
       ENFORCE_WHITELIST: "true"
       SNOOPER_ENABLED: "false"
