@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons-fabric-2.0.0-a-dev-1.20.1.jar"
-hash = "92c70fe435f4bdc0e226d58c504c50af2c8ec411c38880c2a15fe9c3a416c502"
+hash = "65a59db93d50275a327e1fc5eb280f495e8548fdc696f4959b5fe31576b5ed3e"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
