@@ -9,6 +9,10 @@ file = "config/yosbr/config/modmenu.json"
 hash = "13dea82190ff9131925b6af79fcd8a979607cdd86c2d72306abe432a8c4acfcd"
 
 [[files]]
+file = "config/yosbr/shaderpacks/ComplementaryReimagined_r2.3_DH_patch.zip"
+hash = "b5b4fe5e4a248e962ab5bc01014050e6dfb2282307a32aa465d0cf9a7d439406"
+
+[[files]]
 file = "config/yosbr/shaderpacks/complementary-reimagined.pw.toml"
 hash = "52b2b9aa9245d6ba6e0a22cf96926401535bb722844cb4b0c1ae32a243791241"
 metafile = true
@@ -20,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons-fabric-2.0.0-a-dev-1.20.1.jar"
-hash = "424052fc9760ed7ed974129c3c7ee9655ffd0621c19c731d9814582ec0f23c39"
+hash = "bf67ebc75a5a4cd09e789fe920a5d41fc2e87109dbadda542d2389676daba2b9"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -41,6 +45,10 @@ metafile = true
 file = "mods/better-log4j-config.pw.toml"
 hash = "368f54ece80b1770acb10afec2d6c9ac775b6cd0b4bc70d228a78c937820eb67"
 metafile = true
+
+[[files]]
+file = "mods/blendium-0.1.0+mc1.20.x.jar"
+hash = "29fc75b7f5dc3b3bf330528f0936c9966a61a078381c7a45e8755d988ba1730e"
 
 [[files]]
 file = "mods/chunky.pw.toml"
@@ -99,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5aa33cf19de168fa9da2421aff76367a5b7206d9f5ffd1dbbce4bff2a47a88ef"
+hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
 metafile = true
 
 [[files]]
@@ -189,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "17831880d734824e34609ee8f6b6ca677b9dc093a6c6360f86d44b3c66bfd7db"
+hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
 metafile = true
 
 [[files]]
