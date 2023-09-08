@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/DistantHorizons-fabric-2.0.0-a-dev-1.20.1.jar"
-hash = "bf67ebc75a5a4cd09e789fe920a5d41fc2e87109dbadda542d2389676daba2b9"
+hash = "48763a0b557fc83f43ace546cd5478e7db226c64b61da855735f0cc3e403610f"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-log4j-config.pw.toml"
-hash = "368f54ece80b1770acb10afec2d6c9ac775b6cd0b4bc70d228a78c937820eb67"
+hash = "3021ecf8039fca2b936499c69d9fb885c820fb256e0e79b5f301ec7f478821a5"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "88fea54c2bc4c3a0e65ec31a1f96b94ff1792e3362988fe719fa5e9de806f99a"
+hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6a5b36909dddce957a6a6bb567218b9c400ed183749ff9cb12d4a42964d9bf5d"
+hash = "b955450fc7798bd9490f24977a828a06aeee726198aacec1eef16703ab88fbc5"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5f7c27afd4a91b1296dfe4f6edfdf14c88b34af812d8d18db48529874398b84f"
+hash = "e5f92dc07f3f57d187c366dc98c1d16d75df5cf47775b1c2d8589f5a01900536"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
@@ -172,12 +172,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
+hash = "7a06b7203a44d879f81651f5d192933aeac202ca9012fa8e314b7a4560268410"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "16edb6e9b2eb85405f9a3e4ac7159a0c00a9d47bfb4dc9d5b548bca37245fc06"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2008716fdfef554660ce44659a3a42acd673a5391af2d4bd94f40654f1f60a1d"
+hash = "5128dafec4140a625b5c388f56e9989b8f6780dcce41134ef799bd9be3d5ae1a"
 metafile = true
 
 [[files]]
@@ -222,5 +222,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
